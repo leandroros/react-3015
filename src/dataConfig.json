@@ -1,0 +1,9 @@
+{
+  "endereco": "https://dlp.epsoft.com.br",
+  "endereco_localhost": "http://localhost",
+  "porta_localhost": "8011",
+  "ambiente_end": "PROD2",
+  "porta": "8011",
+  "porta_react": "3015",
+  "porta_api": "5004"
+}
