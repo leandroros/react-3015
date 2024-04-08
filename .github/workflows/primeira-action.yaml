@@ -22,7 +22,7 @@ jobs:
     deploy-producao3015:
       runs-on: ubuntu-latest
       environment:
-              name: producao_react_3015
+              name: producao3015
       needs: producao3015
       steps:
             - name: Repo Checkout
